@@ -1,10 +1,12 @@
 <head >
     <meta charset='utf-8'>
     <meta name='viewport' content='width=device-width'>
-    <title>حول التطبيق</title>
+    <title>
+    حول التطبيق
+    </title>
     <link href="fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
     <style>
-    body{ font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em;color:black;}
+    body{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em;color:black;}
     p{color:white;   }
     h2{color:black;}
     a{color:blue;}
