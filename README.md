@@ -70,6 +70,7 @@
     <br>
     <i class="fab fa-telegram">Telegram:</i>
     <a href="https://t.me/IAlzoriqi" > @IAlzoriqi </a>
+    [go](https://t.me/IAlzoriqi){:target="_blank" rel="noopener"}
     <br>
         <br>
         <!--brand icon-->
