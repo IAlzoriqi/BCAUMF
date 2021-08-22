@@ -1,20 +1,7 @@
 <head >
-    <meta charset='utf-8'>
-    <meta name='viewport' content='width=device-width'>
-    <title>
-    حول التطبيق
-    </title>
-    <link href="fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
-    <style>
-    body{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em;color:black;}
-    p{color:white;   }
-    h2{color:black;}
-    a{color:blue;}
-    li{color:black;}
-    strong{color:black;  text-align: right;    line-height: 1.8;font-size: 20px;}
-    </style>
+
 </head>
-    <body style="direction: rtl;dir="rtl"; font-family: 'Helvetica Neue', Helvetica, Arial,sans-serif; padding:1em ">
+    <body style="direction: rtl;dir=rtl; font-family: 'Helvetica Neue', Helvetica, Arial,sans-serif; padding:1em ">
     <h1>
     حول التطبيق
     </h1>
@@ -36,7 +23,8 @@
 </P>
 # فريق العمل
         طلاب جامعة العلوم والتكنلوجيا كلية الهندسة قسم الهندسة الطبية الحيوية
-    <ul>  <li> هاني فايز صالح الكميم  </li>
+    <ul>
+    <li> هاني فايز صالح الكميم  </li>
     <li>محمد يحيى يحيى الاشول </li>
     <li>ماهر احمد احمد الزريقي </li>
     <li>صهيب مصطفى اسماعيل القدسي  </li></ul>
@@ -65,29 +53,27 @@
     اتصل بنا
     </strong>
     </p>
-    <p>
+    <p style="direction: rtl;dir=rtl;">
          لتواصل مع مبرمج التطبيق
     </p>
-          <i class="fas fa-mail-bulk"></i>
+      <ul style="direction: ltr;dir=ltr;">
+          <i class="fas fa-mail-bulk">Gmail: </i>
           <a href="mailto: ialzoriqi@gmail.com"  target="_blank">ialzoriqi@gmail.com</a>
         <br>
-    <i class="fab fa-facebook"></i>
+    <i class="fab fa-facebook">Facebook: </i>
     <a href="https://www.facebook.com/IbrahimAlzoriqi"  target="_blank">@IbrahimAlzoriqi</a>
     <!-- uses regular style -->
     <br>
-    <i class="fab fa-twitter"></i>
+    <i class="fab fa-twitter">Twitter: </i>
     <a href="https://www.twitter.com/IAlzoriqi"  target="_blank">@IAlzoriqi</a>
     <!-- uses regular style -->
     <br>
-    <i class="fab fa-telegram"></i>
+    <i class="fab fa-telegram">Telegram:</i>
     <a href="https://t.me/IAlzoriqi"  target="_blank"> @IAlzoriqi </a>
     <br>
-        <i class="fab fa-whatsapp"></i> <!-- uses brands style -->
-        <a href="https://wa.me/+967772703145"  target="_blank"> +967772703145  </a>
         <br>
         <!--brand icon-->
-    <i class="fab fa-github-square"></i> <!-- uses brands style -->
-        <a href="https://github.com/IAlzoriqi"  target="_blank"> @IAlzoriqi  </a>
+    <ul>
         <br>
     </div>
     <div>
@@ -95,4 +81,3 @@
     </div>
     <img src="ImageScrean/fristScrean.png"/>
     </body>
-</head>
