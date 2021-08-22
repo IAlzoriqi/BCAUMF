@@ -65,11 +65,11 @@
     <!-- uses regular style -->
     <br>
     <i class="fab fa-twitter">Twitter: </i>
-    <a href="https://www.twitter.com/IAlzoriqi"  target="_blank">@IAlzoriqi</a>
+    <a href="https://www.twitter.com/IAlzoriqi" >@IAlzoriqi</a>
     <!-- uses regular style -->
     <br>
     <i class="fab fa-telegram">Telegram:</i>
-    <a href="https://t.me/IAlzoriqi"  target="_blank"> @IAlzoriqi </a>
+    <a href="https://t.me/IAlzoriqi" > @IAlzoriqi </a>
     <br>
         <br>
         <!--brand icon-->
