@@ -3,7 +3,6 @@
     <meta name='viewport' content='width=device-width'>
     <title>حول التطبيق</title>
     <link href="fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
-
     <style>
     body{ font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em;color:black;}
     p{color:white;   }
@@ -12,9 +11,8 @@
     li{color:black;}
     strong{color:black;  text-align: right;    line-height: 1.8;font-size: 20px;}
     </style>
-
 </head>
-    <body style="direction: rtl;dir="rtl"; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em ">
+    <body style="direction: rtl;dir="rtl"; font-family: 'Helvetica Neue', Helvetica, Arial,sans-serif; padding:1em ">
     <h1>
     حول التطبيق
     </h1>
@@ -58,34 +56,29 @@
     م.ابراهيم شاهر الزريقي 
     </li>
     </ul>
-
-    <div><p>
-    <p><strong>اتصل بنا</strong>
+    <div>
+    <p>
+    <p>
+    <strong>
+    اتصل بنا
+    </strong>
     </p>
     <p>
          لتواصل مع مبرمج التطبيق
     </p>
-
           <i class="fas fa-mail-bulk"></i>
-
-
           <a href="mailto: ialzoriqi@gmail.com"  target="_blank">ialzoriqi@gmail.com</a>
-
         <br>
     <i class="fab fa-facebook"></i>
-
     <a href="https://www.facebook.com/IbrahimAlzoriqi"  target="_blank">@IbrahimAlzoriqi</a>
     <!-- uses regular style -->
     <br>
-
     <i class="fab fa-twitter"></i>
-
     <a href="https://www.twitter.com/IAlzoriqi"  target="_blank">@IAlzoriqi</a>
     <!-- uses regular style -->
     <br>
     <i class="fab fa-telegram"></i>
     <a href="https://t.me/IAlzoriqi"  target="_blank"> @IAlzoriqi </a>
-
     <br>
         <i class="fab fa-whatsapp"></i> <!-- uses brands style -->
         <a href="https://wa.me/+967772703145"  target="_blank"> +967772703145  </a>
@@ -93,18 +86,11 @@
         <!--brand icon-->
     <i class="fab fa-github-square"></i> <!-- uses brands style -->
         <a href="https://github.com/IAlzoriqi"  target="_blank"> @IAlzoriqi  </a>
-
         <br>
-
     </div>
-
     <div>
     <img src="ImageScrean/ImageDivace.png"/>
     </div>
-
-
     <img src="ImageScrean/fristScrean.png"/>
-
     </body>
-    </body>
-    </html>
+</head>
