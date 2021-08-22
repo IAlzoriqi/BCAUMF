@@ -1,33 +1,10 @@
-<!DOCTYPE html>
-    <html  dir="rtl">
-    <head >
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
-      <title>حول التطبيق</title>
-        <link href="fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
+    # حول التطبيق
 
-      <style> 
-      body{ font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em;color:white;}
-      p{color:white;   }
-      h2{color:white;}
-      a{color:yellow;}
-      li{color:white;}
-      strong{color:white;  text-align: right;    line-height: 1.8;font-size: 20px;}
 
-       </style>
-    </head>
-    <body bgcolor="#333">
-    <h2>حول التطبيق</h2>    <strong>المشروع</strong>
-
-    <p>
 
 
         قمتا بعمل هذا الجهاز   SMART BODY coPosition analyzer  والذي يتضمن هذا البرنامج لعرض المتغيرات
         المقاسة عبر الدائرة الالكترونية حيث نقدم هذا المشروع لجامعة العلوم والتكنولوجيا والذي يقوم بقياس
-
-
-    </p>
-
 
   <ul><li>كمية الكتلة الخالية من الدهون  (Free Fat Mass)</li>
       <li>نسبة الدهون في الجسم(Percent Body Fat)  </li>
@@ -37,28 +14,22 @@
       <li>الكتلة العضلاتفي الجسم  (Skeletal Muscle Mass)</li>
 
       <li>كمية البوتاسيوم في الجسم  (Total Body Potassium)</li>
+
   </ul>
     <p> ولا يعمل هذا التطبيق الى مع وجود الجزء الالكتروني حيث يتضمن الإلكترودات لاصقة حيث وضع هذه الأقطاب بشكل عرضي على مسار التيار الكهربائي في الرسغ والكاحل من نفس الجانب من الجسم لليد واثنان في مشط القدم والرسغ  على التوالي  من الجهة اليمنى للجسم  ويتم توصيل البرنامج بالجهاز عبر البلوتوث الذي ينقل المتغيرات المقاسة ويتم ادخال الوزن والطول والعمر والجنس عبر البرنامج ليتم قياس وعرض المكونات الجسم المذكورة سابقا مع عرض التشخيص والنصائح المتبعة في حالة الغير طبيعية لمساعدة في معالجة المريض ومراقبة الحالة الصحية للمريض ويستخدم الجهاز للبالغين وجهازنا يساعدك على تتبع صحتك وسهل الاستخدام للمرضى وقليل التكلفة نسعى دائما للحفاض على صحتكم .
 
-
-   <strong>فريق العمل</strong>
-    <p>
-
+# فريق العمل
 
         طلاب جامعة العلوم والتكنلوجيا كلية الهندسة قسم الهندسة الطبية الحيوية
 
 
-    </p>
+
     <ul>  <li> هاني فايز صالح الكميم  </li>
     <li>محمد يحيى يحيى الاشول </li>
     <li>ماهر احمد احمد الزريقي </li>
     <li>صهيب مصطفى اسماعيل القدسي  </li></ul>
 
-
-
-<strong>اشراف </strong>
-    <p>
-
+# اشراف
 
         رئيس قسم الهندسة الطبية الحيوية
 
@@ -123,18 +94,14 @@
         <br>
 
     </div>
-    
+
     <div>
-    <img src="./ImageScrean/ImageDivace.png" 
+    <img src="https://github.com/IAlzoriqi/BCAUMF/blob/main/ImageScrean/ImageDivace.png"
     </div>
 
-       <div>
-    <img src="./ImageScrean/fristScrean.png" 
-    </div>
+
+    <img src="https://github.com/IAlzoriqi/BCAUMF/blob/main/ImageScrean/fristScrean.png"
+
     </body>
     </body>
     </html>
-      
- 
-
-
