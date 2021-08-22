@@ -1,11 +1,11 @@
-<body style="direction: rtl;dir=rtl; font-family: 'Helvetica Neue', Helvetica, Arial,sans-serif; padding:1em ">
-<h1 style="direction: rtl;dir=rtl;">
+<body style="direction: ltr;dir=ltr; font-family: 'Helvetica Neue', Helvetica, Arial,sans-serif; padding:1em ">
+<h1 style="direction: ltr;dir=ltr;">
     حول التطبيق
 </h1>
         قمتا بعمل هذا الجهاز   SMART BODY coPosition analyzer  والذي يتضمن هذا البرنامج لعرض المتغيرات
         المقاسة عبر الدائرة الالكترونية حيث نقدم هذا المشروع لجامعة العلوم والتكنولوجيا والذي يقوم بقياس
 
-  <ul style="direction: rtl;dir=rtl;">
+  <ul style="direction: ltr;dir=ltr;">
       <li>كمية الكتلة الخالية من الدهون  (Free Fat Mass)</li>
       <li>نسبة الدهون في الجسم(Percent Body Fat)  </li>
       <li>ومؤشر كتلة الجسم (Body Mass Index)</li>
@@ -15,7 +15,7 @@
       <li>كمية البوتاسيوم في الجسم  (Total Body Potassium)</li>
 
   </ul>
-<p style="direction: rtl;dir=rtl;">
+<p style="direction: ltr;dir=ltr;">
      ولا يعمل هذا التطبيق الى مع وجود الجزء الالكتروني حيث يتضمن الإلكترودات لاصقة حيث وضع هذه الأقطاب بشكل عرضي على مسار التيار الكهربائي في الرسغ والكاحل من نفس الجانب من الجسم لليد واثنان في مشط القدم والرسغ  على التوالي  من الجهة اليمنى للجسم  ويتم توصيل البرنامج بالجهاز عبر البلوتوث الذي ينقل المتغيرات المقاسة ويتم ادخال الوزن والطول والعمر والجنس عبر البرنامج ليتم قياس وعرض المكونات الجسم المذكورة سابقا مع عرض التشخيص والنصائح المتبعة في حالة الغير طبيعية لمساعدة في معالجة المريض ومراقبة الحالة الصحية للمريض ويستخدم الجهاز للبالغين وجهازنا يساعدك على تتبع صحتك وسهل الاستخدام للمرضى وقليل التكلفة نسعى دائما للحفاض على صحتكم .
 </P style="direction: rtl;dir=rtl;">
 # فريق العمل
