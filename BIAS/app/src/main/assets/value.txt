@@ -1,0 +1,30 @@
+BF Underfat
+BF Healthy
+BF Average Fat
+BF Over Fat
+-------------------------------------
+TBWDingerPositive
+TBWDingerNigative
+TBWNearDingerNigative
+TBWNearDingerPositive
+TBWNormal
+-------------------------------------
+BCMDingerPositive
+BCMDingerNigative
+BCMNearDingerNigative
+BCMNearDingerPositive
+BCMNormal
+-------------------------------------
+FFMDingerPositive
+FFMDingerNigative
+FFMNearDingerNigative
+FFMNearDingerPositive
+FFMNormal
+-------------------------------------
+BMI Underweight
+BMI Normalweight
+BMI Overweight
+BMI Obese Clase I
+BMI Obese Clase II
+BMI Obese Clase III
+BMI Super Obese

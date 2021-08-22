@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layoutDirection="rtl"
+    android:background="@color/grean"
+
+    android:textDirection="rtl"
+    tools:context=".viewNasiha">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:textDirection="anyRtl">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                android:textDirection="anyRtl">
+
+
+
+                <!--  android:background="@drawable/btn"!-->
+
+
+
+
+
+
+            </LinearLayout>
+
+
+        </FrameLayout>
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:layout_gravity="center"
+    android:textAlignment="center"
+    android:gravity="center"
+    >
+
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/logo" />
+
+
+
+
+
+
+
+
+
+
+</FrameLayout>
+
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="60dp"
+android:layout_marginRight="10dp"
+android:orientation="horizontal"
+android:gravity="center"
+
+
+
+
+    >
+
+    <TextView
+        android:id="@+id/txtViewStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text=" التفاصيل"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+
+
+        />
+
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:text="            "
+        android:textSize="20dp"
+
+
+        />
+    <TextView
+        android:id="@+id/txtViewVal"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text=" التفاصيل"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+
+
+        />
+
+</LinearLayout>
+
+
+
+
+        <FrameLayout
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/buttonapps"
+            app:layout_constraintBottom_toBottomOf="parent"
+
+
+            app:layout_constraintEnd_toEndOf="parent"
+
+            >
+
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                >
+
+
+
+                <TextView
+                    android:id="@+id/txtViewName"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text=""
+                    android:textAlignment="center"
+                    android:textColor="@color/colorTextLabel"
+                    android:textSize="25dp"
+
+
+                    />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text=" التفاصيل"
+                        android:textColor="@color/colorTextLabel"
+                        android:textSize="25dp"
+
+
+                        />
+
+
+                </LinearLayout>
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <TextView
+                            android:id="@+id/txtViewDesc"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:ems="10"
+                            android:text="تناول المزيد من  الوجبات الدهنية تناول المزيد من  الوجبات الدهنية تناول المزيد من  الوجبات الدهنية تناول المزيد من  الوجبات الدهنية
+تناول المزيد من  الوجبات الدهنية تناول المزيد من  الوجبات الدهنية تناول   تناول المزيد من  الوجبات الدهنية   تناول المزيد من  الوجبات الدهنية  تناول المزيد من  الوجبات الدهنية  تناول المزيد من  الوجبات الدهنية  تناول المزيد من  الوجبات الدهنية  تناول المزيد من  الوجبات الدهنية  تناول المزيد من  الوجبات الدهنية تناول المزيد من  الوجبات الدهنية المزيد من  الوجبات الدهنية"
+                            android:textColor="@color/black"
+                            android:textDirection="rtl"
+                            android:textSize="20dp" />
+
+
+
+
+
+</LinearLayout>
+
+                </ScrollView>
+            </LinearLayout>
+
+
+
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

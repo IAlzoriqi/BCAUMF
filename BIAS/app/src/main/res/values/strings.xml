@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMART BODY COMBOSITION ENLYZER</string>
+    <string name="shareTxt">استمع الاان الى أناشيد رمضان بدون أيقاع و بدون نت</string>
+
+    <string name="exit_no">لا</string>
+    <string name="exit_yes">نعم</string>
+    <string name="ok">حسناً</string>
+    <string name="privacy">سياسة الخصوصية</string>
+    <string name="share">مشاركة</string>
+    <string name="more">حول</string>
+    <string name="back">عودة</string>
+
+</resources>

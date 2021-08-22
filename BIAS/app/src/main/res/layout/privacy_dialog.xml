@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" xmlns:max="http://schemas.applovin.com/android/1.0" android:layout_gravity="center" android:orientation="vertical" android:background="#0c000000" android:paddingLeft="5dp" android:paddingRight="5dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:layout_gravity="right" android:orientation="horizontal" android:background="@drawable/rnd_up" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="40dp" android:foreground="?android:attr/selectableItemBackground" android:weightSum="10">
+        <TextView android:textSize="20dp" android:textColor="#3d3d3d" android:gravity="center"
+            android:id="@+id/txt_rate" android:layout_width="match_parent"
+            android:layout_height="match_parent" android:text="Privacy Policy" android:layout_weight="2" android:layout_alignParentRight="true" android:fontFamily="sans-serif-black"/>
+        <ImageView android:id="@+id/btn_cancel" android:padding="2dp" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/ic_close" android:layout_weight="8" android:layout_alignParentRight="true"/>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="right" android:orientation="horizontal" android:background="@drawable/rnd_not" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="1dp" android:foreground="?android:attr/selectableItemBackground" android:weightSum="10"/>
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <WebView android:id="@+id/wv_content" android:background="@drawable/rnd_not" android:paddingLeft="10dp" android:paddingRight="10dp" android:paddingBottom="20dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </ScrollView>
+    <LinearLayout android:layout_gravity="right" android:orientation="horizontal" android:background="@drawable/rnd_down" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="20dp" android:foreground="?android:attr/selectableItemBackground" android:weightSum="10"/>
+</LinearLayout>
