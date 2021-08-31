@@ -91,16 +91,7 @@ The analysis of body composition is a method that provides information on the co
         <br>
     </div>
     <div>
-
     <img src="ImageScrean/ImageDivace.png"/>
     </div>
     <img src="ImageScrean/fristScrean.png"/>
-
-
-
-
-
-
-
-
     </body>
